@@ -18,23 +18,23 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 *MISP* - Open source threat intelligence platform
 
-*UrlScan.io* - A platform used to scan urls
+*UrlScan.io* - Platform used to scan urls
 
 *Abuse.ch* - Open source threat intelligence platform
 
-*MalwareBazaar* - A platform used to analyze malware
+*MalwareBazaar* - Platform used to analyze malware
 
-*Feodo Tracker* - a platform used to provide information regarding C2 frameworks
+*Feodo Tracker* - Platform used to provide information regarding C2 frameworks
 
-*SSL Blacklist* - A platform used to detect malicious ssl connections
+*SSL Blacklist* - Platform used to detect malicious ssl connections
 
-*URLhaus* - A database used to tracker malware associated with ip addresses
+*URLhaus* - Database used to tracker malware associated with ip addresses
 
-*ThreatFox* - A platform used to find information on IOCs
+*ThreatFox* - Platform used to find information on IOCs
 
-*PhishTool* - A platform used to analyze phishing emails
+*PhishTool* - Platform used to analyze phishing emails
 
-*Cisco Talos Intelligence* - A platform used to analyze ip addresses
+*Cisco Talos Intelligence* - Platform used to analyze ip addresses
 
 **Network Security and Traffic Analysis** - This sections covers tools used to analyze network traffic
 
@@ -44,9 +44,9 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 *Zeek* - Open source tool that is a network intrusion detecton system
 
-*Wireshark* - Tools used to analyze packets in the network
+*Wireshark* - Tool used to analyze packets in the network
 
-*tshark* - Cli tool used to analyze pcap files
+*tshark* - CLI tool used to analyze pcap files
 
 **Endpoint Security Monitoring** - This sections covers many tools used to monitor networks for suspicious activity
 
@@ -58,9 +58,9 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 **SIEM** - This sections goes over SIEMs. In cybersecurity a SIEM is a tool that allows a SOC to analyze and triage logs/events
 
-*Splunk*
+*Splunk* - Tool that ingest logs from multiple sources
 
-*ELK*
+*ELK* - Tool that ingest logs from multiple sources
 
 **DFIR** - This sections covers tools used in Digital Forensics
 
@@ -68,10 +68,18 @@ This repository contains notes from the TryHackMe Soc Level 1 Learning Path
 
 *Redline* - Tool used for memory analysis
 
-*KAPE* - A tool primarily used for collecting and processing Windows artifacts
+*KAPE* - Tool primarily that collecta and processes Windows artifacts
 
-*Volatility* - Open source memory tool used to analyze data stored in RAM
+*Volatility* - Open source memory tool that analyzes data stored in RAM
 
+**Phishing** - This section covers phishing emails
 
+*URL Extractor* - Tool that extracts all websites from a url
 
-<u>**Phishing**</u>
+*Virus Total* - Tool that gathers intel on hashes, files, and ip addresses
+
+*Talos* - Tool that gathers network intel on an ip address 
+
+*ip info* - Tool that gathers intel on an ip address
+
+*any-run* - Tool that analyzes malware 
